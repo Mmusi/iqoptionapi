@@ -10,8 +10,8 @@ setup(
     include_package_data = True,
     description="Best IQ Option API for python",
     long_description="Best IQ Option API for python",
-    url="https://github.com/Lu-Yi-Hsun/iqoptionapi",
-    author="Lu-Yi-Hsun",
-    author_email="yihsun1992@gmail.com",
+    url="https://github.com/Mmusi/iqoptionapi",
+    author="Thato Mmusi",
+    author_email="mmusi2010@gmail.com",
     zip_safe=False
 )
